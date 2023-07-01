@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [repositório da solução](https://github.com/Kelf1729/Front_Mentor_qrcodeslution.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Solução em hospetagem](https://kelf1729.github.io/Front_Mentor_qrcodeslution/)
 
 ### Built with
 
@@ -39,5 +39,5 @@ Usar o min-height: 100vh, ao invés de usar height: 100vh
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Meu site com projetos](https://kelf1729.github.io/)
+- Frontend Mentor - @kelf1729
